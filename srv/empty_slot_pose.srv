@@ -1,0 +1,6 @@
+# service for getting empty slot Pose
+
+---
+string bin_id
+geometry_msgs/Pose part_pose
+
